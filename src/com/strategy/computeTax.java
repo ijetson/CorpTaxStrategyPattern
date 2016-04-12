@@ -4,6 +4,6 @@ import java.math.BigDecimal;
 
 public interface computeTax {
 	
-	public BigDecimal compute();
+	public BigDecimal compute(BigDecimal profit, BigDecimal rate);
 
 }
