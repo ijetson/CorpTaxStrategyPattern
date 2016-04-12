@@ -1,1 +1,1 @@
-# SalesTaxStrategyPattern
+# CorporateTaxStrategyPattern
